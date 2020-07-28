@@ -1,0 +1,2 @@
+C:\Users\cole0\source\repos\Ping Pong\Debug\Ping Pong.exe
+C:\Users\cole0\source\repos\Ping Pong\Debug\Ping Pong.pdb

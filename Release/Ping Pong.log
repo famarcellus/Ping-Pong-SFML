@@ -1,0 +1,15 @@
+﻿  GameState.cpp
+C:\Users\cole0\source\repos\Ping Pong\GameState.cpp(117,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\cole0\source\repos\Ping Pong\GameState.cpp(389,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\cole0\source\repos\Ping Pong\GameState.cpp(394,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\cole0\source\repos\Ping Pong\GameState.cpp(466,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\cole0\source\repos\Ping Pong\GameState.cpp(466,12): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\cole0\source\repos\Ping Pong\GameState.cpp(482,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\cole0\source\repos\Ping Pong\GameState.cpp(487,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\cole0\source\repos\Ping Pong\GameState.cpp(501,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  2 of 175 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Ping Pong.vcxproj -> C:\Users\cole0\source\repos\Ping Pong\Release\Ping Pong.exe
